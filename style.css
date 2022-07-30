@@ -1,0 +1,51 @@
+.heading
+
+{
+    font-size: 23px;
+
+    width: 100%;
+
+    margin: 0px;
+
+    box-shadow: 5px 5px 5px cadetblue;
+}
+
+.note
+
+{
+
+font-size: 15px;
+
+color: dodgerblue;
+
+}
+
+.footer
+
+{
+    position: fixed;
+
+    color: deepskyblue;
+
+    background-color: lawngreen;
+
+    bottom: 0;
+
+    width: 100%;
+
+    text-align: center;
+
+    line-height: 3;
+}
+
+canvas
+
+{
+
+border: 5px solid salmon;
+
+border-radius: 20px;
+
+box-shadow: 5px 5px 5px cadetblue;
+
+}
